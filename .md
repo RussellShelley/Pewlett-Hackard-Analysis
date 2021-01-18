@@ -32,7 +32,7 @@ Postgres SQL 12.5, Quick DBD (https://www.quickdatabasediagrams.com/)
 
 
 ## Results
-![Retiring Titles](retiring_titles.png)
+![Retiring Titles](../retiring_titles.png)
 
 We can see by looking at the employess retiring by title:
  - The Engineering department will be hit hard ~45K engineers potentially retiring.
@@ -41,18 +41,17 @@ We can see by looking at the employess retiring by title:
  - There are not many managers approaching retirement. 
  
 
- The mentorship eligibility table gives us further information, here I have used group by title and count to see:
+ The mentorship eligibility table shows us:
 
-! [Eligble mentor count](mentor_eligible_count.png)
- - We only have 1549 staff that meet current criteria.
- - The highest eligibility is with senior staff at 569.
- - There are only 529 senior engineers.
- - There are  a total of 748 possible mentors in the engineering department.
+ - 
+ - 
+ - 
+ - 
+
  ## Summary
 
- -  Pewlitt-Hackard have 90,398 positions in total that will need to be filled  as the "silver tsunami" begins to make an impact. Half of these positions are engineers, a third are senior engineers.
+ -  Pewlitt-Hackard have 90,398 positions in total that will need to be filled  as the "silver tsunami" begins to make an impact.
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? The current criteria gives us 1549 mentors, 748 in the engineering department. This is a 60 to 1 ratio of for mentors to new hirees in engineering. 
-- I would suggest expanding the criteria for mentors to include a broader age range.
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
